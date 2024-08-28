@@ -10,6 +10,6 @@ If a customer has a balance of less than 100 tk, s/he can apply for a loan of up
 Additionally, if a customer has already paid 50% of the remaining payment, they are eligible to apply for another loan.  
 
 ## Test documentations 
-### The test artifacts for the projects are:
+### The test artifacts for the project are:
 * Acceptance Criteria
 * Test Case
